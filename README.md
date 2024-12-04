@@ -58,12 +58,6 @@ EduBot uses datasets comprising both structured and unstructured data for analys
 
 
 
-### Example 2: "Who was Napoleon Bonaparte?"
-
-
-
-
-<img width="210" alt="image" src="https://github.com/user-attachments/assets/823b0059-df1e-4c0f-a89a-7a9d1da786fc">
 
 
 
