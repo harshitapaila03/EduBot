@@ -44,7 +44,7 @@ EduBot uses datasets comprising both structured and unstructured data for analys
 
 ### Example 1: "What is the speed of the light?"
  <img width="440" alt="image" src="https://github.com/user-attachments/assets/9015a488-cac2-47db-bdf1-bfca16983474">
- <img width="395" alt="image" src="https://github.com/user-attachments/assets/5f99858b-0393-4c37-a6f2-6be7b044abaa">
+ 
 
 ###Example 2: "Who was Napoleon Bonaparte?"
 <img width="395" alt="image" src="https://github.com/user-attachments/assets/43b49688-c055-4362-bbde-079d4b84a052">
